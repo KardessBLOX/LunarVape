@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Player = game.Players.LocalPlayer
-local Window = OrionLib:MakeWindow({Name = "KardessBLOX Lunar Vape", HidePremium = false, SaveConfig = true, IntroText = "👾Lunar Vape", ConfigFolder = "KeyTest"})
+local Window = OrionLib:MakeWindow({Name = "KardessBLOX Lunar Vape", HidePremium = false, SaveConfig = true, IntroText = "👾Lunar Vape", ConfigFolder = "KardessLunarVape"})
 
 OrionLib:MakeNotification({
 	Name = "KardessBLOX Lunar Vape",
