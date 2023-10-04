@@ -76,3 +76,5 @@ OrionLib:MakeNotification({
       setclipboard("https://rekonise.com/lunar-vape-c89nh")
   	end    
 })
+
+OrionLib:Init()
